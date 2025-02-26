@@ -6,8 +6,9 @@
 </div>
 
 ## 📑 Mục Lục
-- [Cài đặt GitHub](#cài-đặt-github)
-- [Cài đặt Docker](#cài-đặt-docker)
+- [Cấu hình máy chủ](#cau-hinh-may-chu)
+- [Cài đặt GitHub](#cai-dat-github)
+- [Cài đặt Docker](#cai-dat-docker)
 - [Build Superset](#build-superset)
 
 ## 📑 Cấu hình máy chủ
