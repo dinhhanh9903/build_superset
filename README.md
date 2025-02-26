@@ -1,9 +1,5 @@
 # 🚀 Hướng Dẫn Cài Đặt GitHub, Docker và Build Superset
 
-<div align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="200" alt="GitHub Logo"/>
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" width="200" alt="Docker Logo"/>
-</div>
 
 ## 📑 Mục Lục
 - [Cấu hình máy chủ](#cau-hinh-may-chu)
@@ -13,6 +9,7 @@
 
 ## 📑 Cấu hình máy chủ
 =====================
+
 Phần mềm được cài đặt trên máy chủ nên có:
 - Hệ điều hành: Ubuntu 22.04 Server
 - CPU: 4 core (Tối thiểu 2 core, khuyến nghị 4 core trở lên)
