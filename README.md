@@ -139,6 +139,13 @@ cd superset
 export TAG=3.1.1
 docker compose -f docker-compose-image-tag.yml up
 ```
+### 3. Đăng nhập vào Superset
+
+```bash
+http://<ip_address>:8088
+username: admin
+password: admin
+```
 
 
 
